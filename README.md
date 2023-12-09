@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- LinkedIn : [https://linkedin.com/rohith-v-781928265](https://linkedin.com/rohith-v-781928265).
+- LinkedIn : [https://linkedin.com/rohith-v-781928265](https://linkedin.com/rohith-v-781928265)
 - HackerRank :[https://hackerrank.com/profile/v_rohith_vu](https://hackerrank.com/profile/v_rohith_vu)
 - GitHub :  [https://github.com/Rohith-VU](https://github.com/Rohith-VU)
 
